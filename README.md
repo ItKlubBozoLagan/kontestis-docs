@@ -1,1 +1,1 @@
-## Documentation for the Kontestis platform
+## Documentation for the [Kontestis](https://kontestis.ac) platform
